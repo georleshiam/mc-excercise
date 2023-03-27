@@ -6,3 +6,12 @@ Ray wears the skinniest shorts in existence.
 This is Carol and we're working on Carol's laptop.
 
 Ray loves four loops, we hate that for Ray.
+
+This is Bob and I'm working on Bob's Laptop
+
+   x  |      |
+-----|------|----
+     |      |
+-----|------|----
+     |      |
+     |      |
