@@ -9,6 +9,8 @@ Ray loves four loops, we hate that for Ray.
 
 This is Bob and I'm working on Bob's Laptop
 
+This is Carol and I am working on Carol's laptop.
+
    x |      | O
 -----|------|----
  |      |
