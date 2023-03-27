@@ -13,7 +13,11 @@ This is Carol and I am working on Carol's laptop.
 
    x |      | O
 -----|------|----
- |      |
+     |  x   |
 -----|------|----
      |      |
      |      |
+
+This is Bob, and I'm working on Bob's laptop.
+(We are playing tic-tac-toe with each push)
+
