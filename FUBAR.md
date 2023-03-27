@@ -13,7 +13,7 @@ This is Carol and I am working on Carol's laptop.
 
    x |      | O
 -----|------|----
-     |  x   | x
+   O  |  x   | x
 -----|------|----
      |      | O
      |      | 
@@ -27,3 +27,6 @@ We are working on me beating Bob at Tik-Tac-Toe!
 This is Bob, I'm currently working on Bob's lapotp.
 
 (I'm currently losing in tic-tac toe.)
+
+This is Carol, I'm currently wokring on Carol's laptop.
+Neither of us are winning at tic-tac-toe. 
